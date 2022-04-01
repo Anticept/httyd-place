@@ -1,6 +1,6 @@
 # httyd-place
 
-I made this because I wanted multiple people to be able to update the template image. Do not change the dimensions in the image or the template script will break, just update it in place.
+I made this because I wanted multiple people to be able to update the template image.
 
 ## HOW TO USE THE TEMPLATE AND SCRIPT ON /r/place
 Our friends at r/osuplace have made an overlay script! Use this to make sure you're placing pixels in the right spot.
@@ -22,3 +22,7 @@ Install userscript.user.js from this repository to the addons listed above.
 ## Coordination Efforts
 
 We're coordinating at discord.gg/httyd channel #httyd-place and on reddit.com/r/httyd
+
+## To edit the template:
+
+Edit toothless_full.png without changing the pixel dimensions. Then run the dithering.py script on the image, PR it, and merge.
