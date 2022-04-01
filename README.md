@@ -25,4 +25,4 @@ We're coordinating at [discord.gg/httyd] channel #httyd-place and on [reddit.com
 
 ## To edit the template:
 
-Edit toothless_full.png without changing the pixel dimensions. Then run the dithering.py script on the image, PR it, and merge.
+Edit [../blob/main/toothless_full.png] without changing the pixel dimensions. Then run the [../blob/master/dithering.py] script on the image, PR the output, and get it merged!
