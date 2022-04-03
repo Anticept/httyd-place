@@ -21,7 +21,7 @@ Install userscript.user.js from this repository to the addons listed above.
 
 ## Coordination Efforts
 
-We're coordinating at [discord.gg/httyd] channel #httyd-place and on [reddit.com/r/httyd]
+We're coordinating at [https://discord.gg/httyd] channel #httyd-place and on [https://reddit.com/r/httyd]
 
 ## To edit the template:
 
