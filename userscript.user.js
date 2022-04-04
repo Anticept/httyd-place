@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place templater
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the canvas! Made by r/httyd
 // @author       oralekin, exdeejay (xDJ_), 101arrowz, Antonio32A
 // @match        https://hot-potato.reddit.com/embed*
