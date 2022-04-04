@@ -33,4 +33,4 @@ Merge it!
 
 ## NOTICE
 
-toothless_template.png is no longer used as the updated script performs dithering in the browser now. Please do not use this file, or remove it (backwards compatibility)
+toothless_template.png is no longer used as the updated script performs dithering in the browser now. Please do not use this file. It is being kept for backwards compatibility for now.
