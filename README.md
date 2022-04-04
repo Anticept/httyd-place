@@ -1,9 +1,8 @@
 # httyd-place
 
-I made this repository because I wanted multiple people to be able to update the r/place template image(s) and script
+Our friends at r/osuplace have made an overlay script! I (anticept) made this repository because I wanted a centralized place for multiple people to be able to update the r/place template image(s) and script. Use this to make sure you're placing pixels in the right spot.
 
 ## HOW TO USE THE TEMPLATE AND SCRIPT ON /r/place
-Our friends at r/osuplace have made an overlay script! Use this to make sure you're placing pixels in the right spot.
 
 ### Extension
 
