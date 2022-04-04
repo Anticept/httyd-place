@@ -30,3 +30,7 @@ Edit the [toothless_full.png](toothless_full.png) file without changing the pixe
 * YOUR EDITED toothless_full.png
 
 Merge it!
+
+## NOTICE
+
+toothless_template.png is no longer used as the updated script performs dithering in the browser now. Please do not use this file, or remove it (backwards compatibility)
