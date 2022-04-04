@@ -95,6 +95,7 @@
             oldImage.remove();
         }
 
+        oldImage = newImage;
         document.getElementsByTagName("mona-lisa-embed")[0]
             .shadowRoot.children[0]
             .getElementsByTagName("mona-lisa-canvas")[0]
