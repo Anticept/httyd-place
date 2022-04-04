@@ -94,6 +94,18 @@
         if (oldImage) {
             oldImage.remove();
         }
+                
+        window.addEventListener("keydown", function(event) {                
+            // Hide/show the image with the F4 key
+            if(event.key == "F4"){
+                console.log('showing/hiding/refreshing onepiece...' + Date());
+                if (newImage.style.display === "none") {
+                    newImage.style.display = "block";
+                } else {
+                    newImage.style.display = "none";
+                }
+            }
+        });
 
         oldImage = newImage;
         document.getElementsByTagName("mona-lisa-embed")[0]
